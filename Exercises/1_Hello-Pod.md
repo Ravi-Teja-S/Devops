@@ -70,10 +70,12 @@ Simulate this  using the popular `nginx` container image (think of it as Zeptoâ€
 You should see the Nginx welcome page. 
 Congratulations, you just deployed your first container in Kubernetes!
 
-## System Internal Details
-<p align="center">
-  <img src="../Images/k8s-exercise-1.jpg" alt="Kubernetes Internals" width="1000"/>
-</p>
+## Exercise video
+
+
+https://github.com/user-attachments/assets/24818ca5-f311-48a6-8763-386f0ee6fa26
+
+
 
 ## 
 
